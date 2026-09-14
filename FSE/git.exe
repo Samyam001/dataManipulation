@@ -1,0 +1,20 @@
+GIT commands used
+
+
+git mv git.exe FSE/git.exe
+git rm -r FFSE
+git branch -M main
+git push -u orgin main 
+
+
+
+
+
+
+
+
+
+virtual enviroment 
+
+python -m venv .venv
+activate-- source .venv/Scripts/activate
